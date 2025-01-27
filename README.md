@@ -34,8 +34,8 @@
 </p>
 
 <hr />
-<h4 align="center">* 讨论 *</h4>
-<p align="center"><a href="https://github.com/reng99/blogs/discussions">欢迎点击进入讨论</a></p>
+<h4 align="center">* 2025-01-27 更 *</h4>
+<p align="center">博文统一在 <a href="https://juejin.cn/user/1996368846261294/posts">掘金平台</a> 上维护 (*^_^*)</p>
 
 <hr />
 
